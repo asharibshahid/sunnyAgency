@@ -196,7 +196,7 @@ const ServicesPage = () => {
                 2025
               </h1>
               <p className="text-xl md:text-2xl text-gray-400 mb-16 max-w-4xl mx-auto">
-                Welcome to the future of digital innovation. Where artificial intelligence meets human creativity to build what's next.
+                Welcome to the future of digital innovation. Where artificial intelligence meets human creativity to build whats next.
               </p>
             </motion.div>
 
@@ -396,5 +396,6 @@ const ServicesPage = () => {
     </div>
   );
 };
+
 
 export default ServicesPage;
